@@ -1,0 +1,4 @@
+hosts=jmxServiceHostname
+port=3333
+user=jmxUser
+pass=jmxPass
